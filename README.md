@@ -1,4 +1,4 @@
-# Hacktical C
+.# Hacktical C
 A practical hacker's guide to the C programming language.
 
 *In memory of [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie),
